@@ -153,4 +153,3 @@ string project_qualification () {
 #endif
 
 
-// Wlexor Mercy
